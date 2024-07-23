@@ -2,6 +2,6 @@
   "name": "root",
   "version": "1.0.0",
   "scripts": {
-    "heroku-postbuild": "cd mnshowerdoor && npm install && npm run build"
+    "heroku-postbuild": "cd trustworthywindows && npm install && npm run build"
   }
 }

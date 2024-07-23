@@ -1,0 +1,1 @@
+web: cd trustworthywindows && npm start
